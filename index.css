@@ -6,6 +6,10 @@
     --primary-color:#D97706;
 }
 
+hr{
+    margin: 2rem 0;
+}
+
 
 body{
     font-family: 'Montserrat', sans-serif;
@@ -39,8 +43,20 @@ body{
     border-radius: 0.5rem;
 }
 
-
-
+/* LINKS */
+small{
+    padding: 1rem 0;
+}
+ol{
+    padding-top: 1rem;
+}
+.list-non-bullet{
+    list-style: none;
+}
+.list-inline{
+    display: inline;
+    padding: 0 0.5rem;
+}
 
 
 
