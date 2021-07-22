@@ -71,14 +71,23 @@ ol{
  }
  .nav-link{
      text-decoration: none;
-
+     color: black;
  }
+.active{
+    color: blanchedalmond;
+}
+
+ .nav-link:hover{
+     color: #F3F4F6; 
+ }
+
  .navigation .list-non-bullet{
      text-align: right;
  }
  .nav-list{
      margin-right: 3rem;
  }
+ 
 
  /* HEADER */
  
