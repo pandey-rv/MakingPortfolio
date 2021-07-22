@@ -76,10 +76,19 @@ ol{
      text-align: right;
  }
  .nav-list{
-     margin-right: 7rem;
+     margin-right: 3rem;
  }
 
-
+ /* HEADER */
+ 
+ .hero-image{
+     max-width: 400px;
+     /* margin: auto;
+     display: block; */
+ }
+.hero{
+    text-align: center;
+}
 
 
 
