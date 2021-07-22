@@ -103,3 +103,37 @@ ol{
     background-color: var(--offwhite-color);
 
 }
+
+/* FOOTER */
+ul{
+    padding-inline-start: 0px;
+}
+
+.footer{
+    
+    background-color: var(--primary-color);
+    padding: 1rem 0.5rem;
+    border-top-right-radius: 1rem;
+    text-align: center;
+}
+.social{
+    text-decoration: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
