@@ -118,11 +118,13 @@ ul{
 }
 .social{
     text-decoration: none;
+    color: rgb(49, 44, 44);
 
 }
 .footer-heading{
     font-weight: bold;
     font-size: larger;
+    color: blanchedalmond;
 }
 
 
