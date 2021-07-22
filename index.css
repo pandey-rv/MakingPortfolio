@@ -4,6 +4,7 @@
 
 :root{
     --primary-color:#D97706;
+    --offwhite-color:#F3F4F6;
 }
 
 hr{
@@ -90,5 +91,15 @@ ol{
     text-align: center;
 }
 
+/* SECTION */
+.section{
+    padding: 1.5rem 0;
+}
 
+.section h1{
+    text-align: center;
+}
+.section-offwhite{
+    background-color: var(--offwhite-color);
 
+}
