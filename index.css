@@ -59,6 +59,25 @@ ol{
 }
 
 
+/* NAVIGATION */
+.navigation{
+    background-color: var(--primary-color);
+    border-bottom-left-radius: 1.1rem;
+    padding: 1rem 0.5rem;
+}
+ .brand-name{
+     color: white;
+ }
+ .nav-link{
+     text-decoration: none;
+
+ }
+ .navigation .list-non-bullet{
+     text-align: right;
+ }
+ .nav-list{
+     margin-right: 7rem;
+ }
 
 
 
